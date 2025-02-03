@@ -36,8 +36,8 @@ To install and run this application locally, follow these steps:
 
 2. Clone the repository:
    ```
-   git clone https://github.com/varun442/my-app.git
-   cd my-app
+   git clone https://github.com/Tinku1001/Streamify_analytics.git
+   cd Streamify_analytics
    ```
 
 3. Install dependencies:
@@ -111,19 +111,3 @@ src/
    - Chose Recharts for its ease of use and good integration with React.
 
 
-## Submission Guidelines
-
-This project has been submitted according to the following guidelines:
-
-1. Code Repository:
-   - The code is hosted on GitHub at: [https://github.com/varun442/my-app](https://github.com/varun442/my-app)
-
-2. Local Deployment:
-   - The application can be deployed locally using the following simple commands:
-     ```
-     npm install
-     npm start
-     ```
-   - These commands will install all necessary dependencies and start the development server.
-3. Vercel Deployement:
-    - Find the deployement at: [https://speedy-brand-assignment-mu.vercel.app/](https://speedy-brand-assignment-mu.vercel.app/) 
