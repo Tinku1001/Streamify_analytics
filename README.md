@@ -1,6 +1,14 @@
 # Streamify Analytics Dashboard
 
-## Project Overview
+## Deployment
+
+This project is deployed on Vercel. You can access it here:
+
+🔗 [Live Demo on Vercel](https://streamify-analytics-psi.vercel.app/)
+
+
+## Project Overview 
+
 
 Streamify Analytics Dashboard is a frontend application that displays key metrics and data visualizations for a fictional music streaming service called "Streamify". The dashboard provides insights into user activity, revenue, and content performance, allowing the service's management team to make data-driven decisions.
 
